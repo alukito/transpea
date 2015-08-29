@@ -49,7 +49,7 @@ treble20 = addDur sn [d 5, f 4, gs 4, d 5] :+:
 riff17_20 = bass17_20 :=:
             line [timesM 2 treble17, treble19, treble20]
 
-riff29 = bass17 :=: addDur sfn [c 6, d 6] :+: e 6 (hn + dqn)
+riff29 = bass17 :=: addDur sfn [c 4, d 4] :+: e 4 (hn + dqn)
 
 riff = timesM 3 riff1_4 :+:
        bass13_16 :=: treble13_16 :+:
